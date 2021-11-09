@@ -1,0 +1,4 @@
+spark.driver.maxResultSize 10g
+spark.executor.memory 4g
+spark.executor.instances 4
+spark.executor.cores 2
